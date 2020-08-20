@@ -9,6 +9,9 @@ hitheme     : tomorrow      #
 widgets     : [mathjax]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit: slidify::knit2slides 
+github:
+  user: kwpeters58
+  repo: Slide_Demo
 
 ---
 Quick Calculus Background
